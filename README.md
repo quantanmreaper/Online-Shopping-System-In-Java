@@ -22,6 +22,8 @@ To deploy this project :
 
 ## Documentation
 This program contains two main tables 
+
+### -Shop.java is the main file with the main method
 ### -LoginInfo which stores user data 
 ### - ProductInfo which stores product data
 
