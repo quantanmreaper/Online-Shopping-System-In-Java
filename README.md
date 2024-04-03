@@ -9,16 +9,10 @@ This is a console based Shopping application purely developed in Java with the p
 ## Deployment
 
 To deploy this project :
-
 -Download JDK (java development kit)
-
 -Make sure  you have xampp server installed.If not you can download it from the following website https://www.apachefriends.org/download.html
-
 -After Installing it start MySql by clicking the start button
-
-
-
-
+-Add the mysql executable jarfile in the project folder in the referenced library part of your projects
 
 ## Documentation
 This program contains two main tables 
